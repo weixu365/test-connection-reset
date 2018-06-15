@@ -1,0 +1,18 @@
+{
+  "name": "connection-reset-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "node client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agentkeepalive": "^3.4.1",
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3"
+  }
+}

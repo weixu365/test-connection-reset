@@ -23,10 +23,10 @@ const sendRequest = () =>
     httpAgent,
   })
     .then(res => {
-      console.log('finished received response', res.status);
+      console.log('Received response', res.status);
     })
     .catch(e => {
-      console.error('error occurred', e.message);
+      console.error('Error occurred', e.message);
     });
 
 let delay=501;

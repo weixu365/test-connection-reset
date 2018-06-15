@@ -1,6 +1,6 @@
 This repository is for testing **Connection Reset Error** when http keep alive enabled.
 
-Please reference http://theantway.com/2017/11/analyze-connection-reset-error-in-nginx-upstream-with-keep-alive-enabled/ For detailed explanations.
+Please reference http://theantway.com/2017/11/analyze-connection-reset-error-in-nginx-upstream-with-keep-alive-enabled/ for detailed explanations.
 
 ## Steps to reproduce this issue on your local:
 
